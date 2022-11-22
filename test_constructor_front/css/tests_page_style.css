@@ -1,0 +1,24 @@
+body {
+    background-color: #393E46;
+}
+
+header {
+    text-align: center;
+
+    background-color: #222831;
+    color: white;
+
+    padding: 28px;
+}
+
+.tests {
+    display: flex;
+    flex-direction: column;
+
+    gap: 34px;
+}
+
+.tests-item {
+    display: flex;
+    flex-direction: row;
+}
